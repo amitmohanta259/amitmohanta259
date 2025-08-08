@@ -3,7 +3,7 @@
 
 - 👀 QA Engineer | Manual Testing and Automation Testing | API Testing | Selenium | Java | Agile | Postman |
 - 🔭 I’m interested in Application testing
-- 🌱 I’m currently learning **Cypress**
+- 🌱 I’m currently learning **Playwrite**
 - 📫 How to reach me **amitmohanta259@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
